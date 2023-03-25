@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 *.dat
 iris.txt
+new_puzzles.csv.bz2
+*.csv
+*.arrow
+*.db
